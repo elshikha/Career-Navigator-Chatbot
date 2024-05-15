@@ -38,7 +38,7 @@ Designed with precision and efficiency in mind, Career-Navigator serves as your 
   streamlit run app.py
   ```
 ## Our team:
+  - [@elshikha](https://github.com/elshikha)
   - [@RamzyBakir](https://github.com/RamzyBakir)
   - [@YahiaSonbol](https://github.com/YahiaSonbol)
-  - [@elshikha](https://github.com/elshikha)
   - [@YoussefHazem](https://github.com/youssefeLsharaawy)
